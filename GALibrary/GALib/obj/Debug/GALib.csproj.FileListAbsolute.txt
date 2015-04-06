@@ -1,0 +1,8 @@
+D:\genetic_alcgoritm\GAlib\GALib\GALib\bin\Debug\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALib\GALib\bin\Debug\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALib\GALib\obj\Debug\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALib\GALib\obj\Debug\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\bin\Debug\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\bin\Debug\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\obj\Debug\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\obj\Debug\GALib.pdb

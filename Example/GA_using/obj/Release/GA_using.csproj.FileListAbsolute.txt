@@ -1,0 +1,6 @@
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Release\GA_using.exe.config
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Release\GA_using.exe
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Release\GA_using.pdb
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Release\GA_using.csprojResolveAssemblyReference.cache
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Release\GA_using.exe
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Release\GA_using.pdb

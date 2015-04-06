@@ -1,0 +1,15 @@
+D:\genetic_alcgoritm\proba\GA_using\GA_using\bin\Debug\GA_using.exe.config
+D:\genetic_alcgoritm\proba\GA_using\GA_using\bin\Debug\GA_using.exe
+D:\genetic_alcgoritm\proba\GA_using\GA_using\bin\Debug\GA_using.pdb
+D:\genetic_alcgoritm\proba\GA_using\GA_using\bin\Debug\GALib.dll
+D:\genetic_alcgoritm\proba\GA_using\GA_using\bin\Debug\GALib.pdb
+D:\genetic_alcgoritm\proba\GA_using\GA_using\obj\Debug\GA_using.csprojResolveAssemblyReference.cache
+D:\genetic_alcgoritm\proba\GA_using\GA_using\obj\Debug\GA_using.exe
+D:\genetic_alcgoritm\proba\GA_using\GA_using\obj\Debug\GA_using.pdb
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Debug\GA_using.exe.config
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Debug\GA_using.exe
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Debug\GA_using.pdb
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Debug\GA_using.exe
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Debug\GA_using.pdb
+D:\genetic_alcgoritm\GAlib\Example\GA_using\bin\Debug\GALib.pdb
+D:\genetic_alcgoritm\GAlib\Example\GA_using\obj\Debug\GA_using.csprojResolveAssemblyReference.cache

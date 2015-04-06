@@ -1,0 +1,9 @@
+D:\genetic_alcgoritm\GAlib\GALib\GALib\bin\Release\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALib\GALib\bin\Release\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALib\GALib\obj\Release\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALib\GALib\obj\Release\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\bin\Release\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\bin\Release\GALib.pdb
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\obj\Release\GALib.csprojResolveAssemblyReference.cache
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\obj\Release\GALib.dll
+D:\genetic_alcgoritm\GAlib\GALibrary\GALib\obj\Release\GALib.pdb
