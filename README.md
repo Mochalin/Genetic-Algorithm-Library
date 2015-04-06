@@ -3,7 +3,7 @@
 
 
 Folders:
-_ _ _ _ _
+________
 
 GALibrary - class library for working with genetic algorithms.
 
