@@ -3,5 +3,9 @@
 
 
 Folders:
+
+
 GALibrary - class library for working with genetic algorithms.
+
+
 Example - simple example: genetic algorithm used to find maximum of test function.
